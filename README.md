@@ -17,11 +17,14 @@ Regularly updated with tips and guides.
 - Research Page
 In-depth resources and research on bonsai species, history, and cultivation techniques.
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+🚀 Technologies Used
+- HTML: For structuring content.
+- CSS: For styling the pages.
+- JavaScript (optional): For interactive elements.
 
-## How to Run
-1. Clone the repository.
-2. Open `index.html` in a browser.
+🛠️ How to Use
+- Clone the Repository
+```bash
+git clone https://github.com/nischal-0016/HTML-CSS-JS.git
+```
+- Open index.html in your browser to view the page.
